@@ -25,4 +25,5 @@ It was quick and easy to test and implement. Perhaps the con that I see is that 
 This tool could easily be extended to support any kind of persistance and also output formant
 
 I did aim for modularity and OOP. As you will observe my classes and methods are relatively small, well written, named and tested.
+I was unsure what kind of format to use for the output, either xml,json or maybe some kind of image but the quickest was to use the terminal. Maybe a future improvement could be to add identation in the links that are outputed so it gives more the sensation of a sitemap(currently, it looks like breadcrumbs).
 
